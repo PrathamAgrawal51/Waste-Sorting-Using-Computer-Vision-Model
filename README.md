@@ -11,8 +11,7 @@ A deep learning-based **waste classification model** that automatically identifi
 ## 🛠️ Technologies Used  
 
 - **Python, OpenCV, TensorFlow/Keras**  
-- **Pre-trained CNN (ResNet / MobileNet / Custom Model)**  
-- **Flask (for Web API) / Streamlit (for UI, if implemented)**  
+- **Pre-trained CNN**
 
 ## 🚀 Usage  
 
