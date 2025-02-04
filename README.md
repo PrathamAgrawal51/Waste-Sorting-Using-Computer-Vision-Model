@@ -17,4 +17,4 @@ A deep learning-based **waste classification model** that automatically identifi
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Waste-Sorting-Using-Computer-Vision-Model.git
+git clone https://github.com/PrathamAgrawal51/Waste-Sorting-Using-Computer-Vision-Model.git
